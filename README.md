@@ -26,6 +26,13 @@
 
 
 <br><br>
+### 🌐 دمو آنلاین
+
+🔗 [مشاهده دمو زنده](https://yasinkiani.github.io/devextreme-angular-ums-web)
+
+
+---
+<br><br>
 
 
 ## 🧰 پیش‌نیازها
@@ -69,7 +76,7 @@ npx ng lint
 <br>
 #### 📋 صفحه اصلی و جدول کاربران
 
-<img width="1433" height="721" alt="1" src="https://github.com/user-attachments/assets/3acaf077-7ac1-43df-9fb0-394a3c2a028b" />
+<img width="1433" height="721" alt="1" src="https://github.com/user-attachments/assets/49dbbafe-9c1d-4a56-9e97-19658347e9d2" />
 
 _نمایش جدول DevExtreme با قابلیت‌های جستجو، فیلتر و مرتب‌سازی_
 
@@ -77,8 +84,8 @@ _نمایش جدول DevExtreme با قابلیت‌های جستجو، فیلت
 <br>
 #### ✏️ فرم افزودن/ویرایش کاربر
 
-<img width="1431" height="725" alt="2" src="https://github.com/user-attachments/assets/e12594e0-d3f3-4c5d-950a-41b908113c9c" />
-<img width="1434" height="726" alt="3" src="https://github.com/user-attachments/assets/3aba487f-1385-47a9-867f-a9e0d47438ca" />
+<img width="1431" height="725" alt="2" src="https://github.com/user-attachments/assets/93aa7d9b-31b0-40da-ad23-9f842bb76305" />
+<img width="1434" height="726" alt="3" src="https://github.com/user-attachments/assets/5b57fcfe-2dc4-462d-9b25-83f1d2888a92" />
 
 
 _دیالوگ سفارشی با اعتبارسنجی، بارگذاری تصویر و تاریخ جلالی_
@@ -88,20 +95,14 @@ _دیالوگ سفارشی با اعتبارسنجی، بارگذاری تصوی
 
 #### ⚠️ دیالوگ تایید حذف
 
-<img width="1431" height="724" alt="4" src="https://github.com/user-attachments/assets/55cdbf69-be1d-4124-b475-3efdfc2ff5db" />
+<img width="1431" height="724" alt="4" src="https://github.com/user-attachments/assets/5872e741-8bed-43c8-8555-0df0c740761b" />
 
 _دیالوگ تایید سفارشی با Material Design_
 
 
 </div>
 
-<br><br>
-### 🌐 دمو آنلاین
 
-🔗 [مشاهده دمو زنده](https://your-username.github.io/repo-name/)
-
-
----
 <br><br>
 
 ## 🗺️ مسیرهای اصلی پروژه
