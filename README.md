@@ -74,7 +74,7 @@ npx ng lint
 
 <div align="center">
 <br>
-#### 📋 صفحه اصلی و جدول کاربران
+ 📋 صفحه اصلی و جدول کاربران
 
 <img width="1433" height="721" alt="1" src="https://github.com/user-attachments/assets/49dbbafe-9c1d-4a56-9e97-19658347e9d2" />
 
@@ -82,7 +82,7 @@ _نمایش جدول DevExtreme با قابلیت‌های جستجو، فیلت
 
 ---
 <br>
-#### ✏️ فرم افزودن/ویرایش کاربر
+ ✏️ فرم افزودن/ویرایش کاربر
 
 <img width="1431" height="725" alt="2" src="https://github.com/user-attachments/assets/93aa7d9b-31b0-40da-ad23-9f842bb76305" />
 <img width="1434" height="726" alt="3" src="https://github.com/user-attachments/assets/5b57fcfe-2dc4-462d-9b25-83f1d2888a92" />
